@@ -3,7 +3,7 @@
 <h2>Some personal stuff about me</h2>
 <ul>
 <li>Big anime fan 🍥</li>
-<li>Passionate about science fiction 🧪</li>
+<li>Passionate about science fiction 🚀</li>
 <li>Games 🎮</li>
-<li>Daring traveler </li>
+<li>Daring traveler 🌍</li>
 </ul>
