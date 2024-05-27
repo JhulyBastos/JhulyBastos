@@ -21,5 +21,4 @@
 <h2>Technologies</h2>
 <a href="https://skillicons.dev" rel="nofollow"><img src="https://skillicons.dev/icons?i=git,figma,nextjs,react,tailwind,html,css,js,ts,nodejs,py," alt="My Skills" style="max-width: 100%;"></a>
 <a href="#" data-target="animated-image.originalLink">
-<img src="https://camo.githubusercontent.com/5e26843ba5c85209d3831c6ccbb66aa8432a0fd63ecb99035df7ff28cd4b362b/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f696d616765732f61376264366239343433306331653636313438643538303230396533373763352f74656e6f722e6769663f6974656d69643d35303433313038" title="hello" height="243" align="right" alt="Hello, there!" data-canonical-src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
